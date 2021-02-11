@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<trenuri>
+  <tren Numar="1833">
+    <ora_start>6:00</ora_start>
+    <ora_stop>13:00</ora_stop>
+    <statie_start>Iasi</statie_start>
+    <statie_stop>Timisoara Nord</statie_stop>
+    <statii>
+      <statie numeStatie="Iasi" ora_sosire="5:40" ora_plecare="6:00" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Gura Humorului" ora_sosire="8:00" ora_plecare="8:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Cluj Napoca" ora_sosire="10:15" ora_plecare="10:30" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Oradea" ora_sosire="11:30" ora_plecare="11:45" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Timisoara Nord" ora_sosire="13:00" ora_plecare="13:00" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+  <tren Numar="4205">
+    <ora_start>4:33</ora_start>
+    <ora_stop>9:10</ora_stop>
+    <statie_start>Vatra Dornei</statie_start>
+    <statie_stop>Bistrita Nord</statie_stop>
+    <statii>
+      <statie numeStatie="Vatra Dornei" ora_sosire="4:31" ora_plecare="4:33" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Vatra Dornei Bai hc." ora_sosire="4:36" ora_plecare="4:37" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Rosu Hm." ora_sosire="4:44" ora_plecare="4:45" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Dorna Candrenilor hc." ora_sosire="4:50" ora_plecare="4:51" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Floreni" ora_sosire="4:56" ora_plecare="4:57" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Larion Hm." ora_sosire="5:26" ora_plecare="5:27" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Silhoasa Hm." ora_sosire="5:36" ora_plecare="5:37" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Lunca Ilvei" ora_sosire="5:45" ora_plecare="5:46" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Ilva Mare Hm." ora_sosire="5:54" ora_plecare="5:55" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Magura Ilvei Hm." ora_sosire="6:03" ora_plecare="6:04" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Poiana Ilvei" ora_sosire="6:14" ora_plecare="6:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Podereia Feldrului h." ora_sosire="6:52" ora_plecare="6:53" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Feldru Hm." ora_sosire="6:58" ora_plecare="6:59" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Nepos h." ora_sosire="7:04" ora_plecare="7:05" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Mititei h." ora_sosire="7:35" ora_plecare="7:36" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Nimigea Hm." ora_sosire="7:42" ora_plecare="7:43" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Nimigea h." ora_sosire="7:45" ora_plecare="7:46" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Mogoseni Hm." ora_sosire="7:50" ora_plecare="7:51" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Cociu h." ora_sosire="7:53" ora_plecare="7:54" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Caila hc." ora_sosire="8:34" ora_plecare="8:35" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Arcalia hc." ora_sosire="8:48" ora_plecare="8:49" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Viisoara h." ora_sosire="9:03" ora_plecare="9:04" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Bistrita Nord" ora_sosire="9:10" ora_plecare="9:10" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+  <tren Numar="5333">
+    <ora_start>10:15</ora_start>
+    <ora_stop>20:30</ora_stop>
+    <statie_start>Iasi</statie_start>
+    <statie_stop>Timisoara Nord</statie_stop>
+    <statii>
+      <statie numeStatie="Iasi" ora_sosire="10:00" ora_plecare="10:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Letcani" ora_sosire="11:00" ora_plecare="11:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Pascani" ora_sosire="12:15" ora_plecare="12:20" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Suceava" ora_sosire="13:30" ora_plecare="13:35" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Gura Humorului" ora_sosire="14:20" ora_plecare="14:30" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Vatra Dornei" ora_sosire="15:30" ora_plecare="15:45" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Bistrita Nord" ora_sosire="16:45" ora_plecare="17:00" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Cluj Napoca" ora_sosire="19:00" ora_plecare="19:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Timisoara Nord" ora_sosire="20:30" ora_plecare="20:30" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+  <tren Numar="2872">
+    <ora_start>6:05</ora_start>
+    <ora_stop>12:30</ora_stop>
+    <statie_start>Bucuresti Baneasa</statie_start>
+    <statie_stop>Suceava</statie_stop>
+    <statii>
+      <statie numeStatie="Bucuresti Baneasa" ora_sosire="6:00" ora_plecare="6:05" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Focsani" ora_sosire="8:00" ora_plecare="8:10" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Iasi" ora_sosire="10:00" ora_plecare="10:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Letcani" ora_sosire="11:15" ora_plecare="11:20" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Suceava" ora_sosire="12:30" ora_plecare="12:30" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+   <tren Numar="2873">
+    <ora_start>6:08</ora_start>
+    <ora_stop>14:45</ora_stop>
+    <statie_start>Suceava</statie_start>
+    <statie_stop>Bucuresti Nord</statie_stop>
+    <statii>
+      <statie numeStatie="Suceava" ora_sosire="6:00" ora_plecare="6:08" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Letcani" ora_sosire="8:00" ora_plecare="8:10" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Iasi" ora_sosire="10:00" ora_plecare="10:10" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Focsani" ora_sosire="12:00" ora_plecare="12:05" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Bucuresti Baneasa" ora_sosire="14:45" ora_plecare="14:45" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+   <tren Numar="1834">
+    <ora_start>6:00</ora_start>
+    <ora_stop>13:00</ora_stop>
+    <statie_start>Timisoara Nord</statie_start>
+    <statie_stop>Iasi</statie_stop>
+     <statii>
+      <statie numeStatie="Timisoara Nord" ora_sosire="5:40" ora_plecare="6:00" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Oradea" ora_sosire="8:00" ora_plecare="8:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Cluj Napoca" ora_sosire="10:15" ora_plecare="10:30" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Gura Humorului" ora_sosire="11:30" ora_plecare="11:45" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Iasi" ora_sosire="13:00" ora_plecare="13:00" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+   <tren Numar="5334">
+    <ora_start>10:15</ora_start>
+    <ora_stop>20:30</ora_stop>
+    <statie_start>Timisoara Nord</statie_start>
+    <statie_stop>Iasi</statie_stop>
+    <statii>
+      <statie numeStatie="Timisoara Nord" ora_sosire="10:00" ora_plecare="10:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Cluj Napoca" ora_sosire="11:00" ora_plecare="11:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Bistrita Nord" ora_sosire="12:15" ora_plecare="12:20" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Vatra Dornei" ora_sosire="13:30" ora_plecare="13:35" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Gura Humorului" ora_sosire="14:20" ora_plecare="14:30" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Suceava" ora_sosire="15:30" ora_plecare="15:45" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Pascani" ora_sosire="16:45" ora_plecare="17:00" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Letcani" ora_sosire="19:00" ora_plecare="19:15" intarziere_p="0" intarziere_s="0"/>
+      <statie numeStatie="Iasi" ora_sosire="20:30" ora_plecare="20:30" intarziere_p="0" intarziere_s="0"/>
+    </statii>
+    <intarziere>0</intarziere>
+  </tren>
+</trenuri>
